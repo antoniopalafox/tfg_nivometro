@@ -5,4 +5,4 @@ cmake_minimum_required(VERSION 3.16)
 include($ENV{IDF_PATH}/tools/cmake/project.cmake)
 
 # Nombre del proyecto; crea el ejecutable y agrupa los componentes
-project(tfg_nivometro)
+project(tfg)

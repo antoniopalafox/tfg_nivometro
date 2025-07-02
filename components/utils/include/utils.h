@@ -3,7 +3,7 @@
 #include <stdint.h>
 #include <stddef.h>
 #include <stdbool.h>
-#include "sensors.h"   
+#include "nivometro_sensors.h"   
 
 void timer_manager_init(void);              // Inicializa el gestor de temporizadores para usar timer_manager_delay_ms()
 

@@ -6,5 +6,5 @@ idf_component_register(
                 storage
                 communication
                 power_manager
-                sensors
+                nivometro_sensors
 )

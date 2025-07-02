@@ -2,7 +2,7 @@
 #include "nvs_flash.h"
 #include "nvs.h"
 #include "esp_log.h"
-#include "sensors.h"  
+#include "nivometro_sensors.h"  
 
 static const char* TAG = "storage";                     // Etiqueta de logs para este módulo
 static nvs_handle_t nvs_handle_local;                   // Handle nvs

@@ -1,5 +1,5 @@
 #include "tasks.h"
-#include "sensors.h"
+#include "nivometro_sensors.h"
 #include "storage.h"
 #include "communication.h"
 #include "power_manager.h"

@@ -6,6 +6,6 @@ idf_component_register(
     esp_event 
     mqtt 
     freertos 
-    sensors
+    nivometro_sensors
 )
 

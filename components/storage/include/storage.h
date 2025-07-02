@@ -1,6 +1,6 @@
 #pragma once                                             // Le indica al compilador que procese este fichero solo una vez por compilacion
 
-#include "sensors.h"
+#include "nivometro_sensors.h"
 #include "esp_err.h"
 
 void storage_init(void);                                 // Inicializa el sistema de almacenamiento (nvs, etc)
